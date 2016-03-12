@@ -5,7 +5,7 @@ This game is played by introducing a set of commands that i will explain now:
 
 To move through the rooms you can use:
 
-"go" + "north/south/east/west" or the shortcuts of them "n/s/e/w".
+"go" + "north/south/east/west/up/down" or the shortcuts of them "n/s/e/w/u/d".
 
 To interact with the doors you can use: 
 
